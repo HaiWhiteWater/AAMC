@@ -1,4 +1,4 @@
-# EQLv3 with CBNet: Enhanced Object Detection Models
+# AAMC: Annealing the Attention of Minority Classes for Imbalanced Learning
 
 ## Overview
 
